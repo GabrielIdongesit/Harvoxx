@@ -1,0 +1,40 @@
+.ecosystem {
+  background: radial-gradient(
+    835.72% 1763.55% at 233.75% -72.07%,
+    #1f151c 8.33%,
+    #321f24 22.92%,
+    #241230 41.3%,
+    #321f24 51.15%,
+    #07082a 56.74%,
+    #241230 72.94%,
+    #321f24 84.98%,
+    #07082a 97.56%
+  );
+  padding: 70px 69px;
+  text-align: center;
+}
+
+.ecosystem {
+  background: #0c340d;
+  
+}
+
+.eco-cards-con{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.eco-cards-main{
+  padding-top: 20px;
+  padding-right: 10px;
+}
+
+.eco-cards-main2{
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}

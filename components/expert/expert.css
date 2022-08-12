@@ -1,0 +1,29 @@
+.expert{
+    padding: 70px 69px;
+    background: radial-gradient(835.72% 1763.55% at 233.75% -72.07%, #1F151C 8.33%, #321F24 22.92%, #241230 41.3%, #321F24 51.15%, #07082A 56.74%, #241230 72.94%, #321F24 84.98%, #07082A 97.56%);
+    text-align: center;
+}
+
+.expert {
+    background: #0c340d;
+}
+
+.expert-cards-con{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.expert-cards-main{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.expert-cards-main2{
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}

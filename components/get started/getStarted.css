@@ -1,0 +1,95 @@
+.get-started {
+  background: radial-gradient(
+    835.72% 1763.55% at 233.75% -72.07%,
+    #1f151c 8.33%,
+    #321f24 22.92%,
+    #241230 41.3%,
+    #321f24 51.15%,
+    #07082a 56.74%,
+    #241230 72.94%,
+    #321f24 84.98%,
+    #07082a 97.56%
+  );
+  padding: 70px 69px;
+  text-align: center;
+}
+ .get-started {
+   background: #0c340d;
+ }
+
+.get-started-form-con{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.get-started-form{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 80%;
+}
+
+.form-group-left, .form-group-right{
+  width: 48%;
+}
+
+fieldset {
+  border: 1px solid #909090;
+  border-radius: 20px 0px;
+  text-align: left;
+  padding-left: 60px;
+  height: 100%;
+  
+}
+
+.fieldset{
+  margin-bottom: 70px;
+}
+
+legend {
+  padding: 0 10px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.get-started-input {
+  height: 40px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.get-started-textarea {
+  resize: none;
+  width: 100%;
+  height: 250px;
+  padding-right: 20px;
+  padding-top: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.get-started-button {
+  background: linear-gradient(270deg, #d2203e 0%, #92287c 49.48%, #3034dd 100%);
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
+  height: 60px;
+  width: 100%;
+  margin-top: 30px;
+}
